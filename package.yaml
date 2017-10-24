@@ -16,6 +16,7 @@ library:
   exposed-modules:
     - URL
     - URL.Core
+    - URL.Parse
 
 default-extensions:
   - Arrows

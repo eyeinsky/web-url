@@ -3,6 +3,7 @@ module URL
   ) where
 
 import URL.Core as Export
+import URL.Parse as Export
 
 import Data.Maybe
 
